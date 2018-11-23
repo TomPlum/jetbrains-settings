@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="async(fn)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
